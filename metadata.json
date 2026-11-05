@@ -1,0 +1,6 @@
+{
+  "name": "Quality Fence Works LLC",
+  "description": "Professional fence, deck, and patio contractor serving Northern Virginia. Specializing in PVC vinyl, custom wood, aluminum, chain link fencing, and outdoor living.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
